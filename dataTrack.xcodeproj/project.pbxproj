@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					8D4F7B301DC5607F008FE9F5 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = WKV3352ER7;
 						ProvisioningStyle = Automatic;
 					};
 					8D4F7B471DC5607F008FE9F5 = {
@@ -416,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WKV3352ER7;
 				INFOPLIST_FILE = dataTrack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.loakeslabs.dataTrack;
@@ -428,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WKV3352ER7;
 				INFOPLIST_FILE = dataTrack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.loakeslabs.dataTrack;
